@@ -1,8 +1,10 @@
 name: LilyHub
 author: sgtcaze
 main: com.sgtcaze.LilyHub.Main
-version: 1.0
+version: 2.0
 
 commands:
    hub:
+    description: Command to get to the hub.
+   lobby:
     description: Command to get to the hub.

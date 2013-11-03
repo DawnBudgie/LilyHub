@@ -1,1 +1,8 @@
+# The target server
 Server: 'example'
+
+# Should there be a TP delay?
+TeleportDelay: false
+
+# How long should the delay be? (in seconds)
+Delay: 1

@@ -1,7 +1,8 @@
 name: LilyHub
 author: sgtcaze
 main: com.sgtcaze.LilyHub.Main
-version: 2.0
+version: 3.0
+depend: [LilyPad-Connect]
 
 commands:
    hub:

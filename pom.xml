@@ -63,6 +63,10 @@
             <id>bukkit-repo</id>
             <url>http://repo.bukkit.org/content/groups/public/</url>
         </repository>
+		<repository>
+    <id>lilypad</id>
+    <url>http://ci.lilypadmc.org/plugin/repository/everything</url>
+</repository>
     </repositories>
     <dependencies>
         <dependency>
@@ -72,6 +76,11 @@
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
+		<dependency>
+    <groupId>lilypad.client.connect</groupId>
+    <artifactId>api</artifactId>
+    <version>LATEST</version>
+</dependency>
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

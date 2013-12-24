@@ -1,4 +1,4 @@
-== LilyHub
+= LilyHub
 
 Get to your "hub" server (defined in the config.yml). Optional use of cooldowns as well as bypass permissions.
 

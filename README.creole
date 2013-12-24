@@ -1,7 +1,7 @@
-== TEMPLATE
+== LilyHub
 
-TEMPLATE <DESCRIPTION>
+Get to your "hub" server (defined in the config.yml). Optional use of cooldowns as well as bypass permissions.
 
-=== Compiling
+LilyPad: http://www.lilypadmc.org/resources/lilyhub.17/
 
-Maven 3 is required to compile TEMPLATE
+Dev Builds: http://ci.playmc.cc/job/LilyHub
